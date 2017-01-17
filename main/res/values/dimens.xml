@@ -1,0 +1,79 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="title">18dp</dimen>
+    <dimen name="rating">15dip</dimen>
+    <dimen name="genre">11dip</dimen>
+    <dimen name="year">12dip</dimen>
+
+    <dimen name="padding_top">10dp</dimen>
+    <dimen name="component_height">60dp</dimen>
+    <dimen name="component_padding">10dp</dimen>
+    <dimen name="ukuran_text_componen">18dp</dimen>
+    <dimen name="actionbar_dimen">56dp</dimen>
+
+    <!-- diment font layout -->
+    <dimen name="font_content">12dp</dimen>
+    <dimen name="font_title">14dp</dimen>
+    <dimen name="font_content_list">12dp</dimen>
+    <dimen name="font_title_list">18dp</dimen>
+    <dimen name="font_title_dum">22dp</dimen>
+    <dimen name="font_content_dum">14dp</dimen>
+    <dimen name="dum_ico">100dp</dimen>
+    <dimen name="padding_edittext">16dp</dimen>
+
+    <!-- icon -->
+    <dimen name="find">35dp</dimen>
+    <!-- slide -->
+    <dimen name="dots_height">30dp</dimen>
+    <dimen name="dots_margin_bottom">20dp</dimen>
+    <dimen name="img_width_height">120dp</dimen>
+    <dimen name="slide_title">30dp</dimen>
+    <dimen name="slide_desc">16dp</dimen>
+    <dimen name="desc_padding">40dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="feed_item_margin">10dp</dimen>
+    <dimen name="feed_item_padding_top_bottom">20dp</dimen>
+    <dimen name="feed_item_padding_left_right">15dp</dimen>
+    <dimen name="feed_item_profile_pic">50dp</dimen>
+    <dimen name="feed_item_profile_info_padd">10dp</dimen>
+    <dimen name="feed_item_profile_name">15dp</dimen>
+    <dimen name="feed_item_timestamp">13dp</dimen>
+    <dimen name="feed_item_status_pad_left_right">15dp</dimen>
+    <dimen name="feed_item_status_pad_top">13dp</dimen>
+    <dimen name="feed_item_corner_radius">3dp</dimen>
+    <dimen name="feed_item_border_width">1dp</dimen>
+
+
+    <dimen name="header_view_start_margin_left">16dp</dimen>
+    <dimen name="header_view_end_margin_left">40dp</dimen>
+    <dimen name="header_view_end_margin_right">14dp</dimen>
+    <dimen name="header_view_start_margin_bottom">14dp</dimen>
+    <dimen name="dimen_layout_1">5dp</dimen>
+
+
+    <!-- button height -->
+    <dimen name="screen_button_height">56dp</dimen>
+
+    <!-- text size -->
+    <dimen name="text_size_medium">18sp</dimen>
+    <dimen name="text_size_normal">16sp</dimen>
+    <dimen name="text_size_big">20sp</dimen>
+
+    <dimen name="z_bottom_sheet">8dp</dimen>
+    <dimen name="z_button">6dp</dimen>
+
+    <dimen name="margin_normal">8dp</dimen>
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="dimen_card_bg_dum">5dp</dimen>
+
+    <!-- dimensions -->
+    <dimen name="image_width">120dp</dimen>
+    <dimen name="image_final_width">32dp</dimen>
+    <dimen name="spacing_normal">16dp</dimen>
+
+</resources>

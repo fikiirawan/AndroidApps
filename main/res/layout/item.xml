@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    card_view:contentPadding="10dp"
+    android:layout_margin="@dimen/dimen_card_bg_dum">
+
+    <RelativeLayout
+        xmlns:foo="http://schemas.android.com/apk/res-auto"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+<!-- Thumbnail Image -->
+<ImageView
+    android:id="@+id/ColImgPath"
+    android:layout_width="60dp"
+    android:layout_height="60dp"
+    android:layout_gravity="left"
+    android:cropToPadding="true"
+    android:padding="2dp"
+    android:scaleType="centerInside"
+    android:visibility="gone" />
+
+<!-- Movie Title -->
+<LinearLayout
+    android:id="@+id/lvItem"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_centerVertical="true"
+    android:layout_toRightOf="@+id/ColImgPath"
+    android:layout_toEndOf="@+id/ColImgPath">
+
+    <TextView
+        android:text="K-24"
+        android:textColor="@color/dot_dark_screen2"
+        android:id="@+id/nama_siswa"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="1dip"
+        android:layout_weight="1"
+        android:textStyle="bold"
+        android:textSize="@dimen/_20sdp" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_marginRight="10dp">
+
+        <TextView
+            android:text="0"
+            android:id="@+id/id_siswa"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/year"
+            android:textSize="@dimen/font_content_list"
+            android:layout_weight="1" />
+
+        <TextView
+            android:text="0"
+            android:id="@+id/join_siswa"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:textColor="@color/year"
+            android:textSize="@dimen/font_content_list"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <TextView
+        android:text="-"
+        android:id="@+id/alamat_siswa"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="5dp"
+        android:textColor="@color/genre"
+        android:textSize="@dimen/genre"
+        android:visibility="visible"
+        android:layout_weight="1" />
+
+    <!-- Rating -->
+</LinearLayout>
+
+</RelativeLayout>
+</android.support.v7.widget.CardView>

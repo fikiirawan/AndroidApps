@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--
+    <color name="colorPrimary">#4D4D4D</color>
+-->
+    <color name="transparant_50">#99ffffff</color>
+    <color name="transparant_30">#FFFFFF</color>
+
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryDark">#5D5D5D</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="orangePrimary">#FF6D00</color>
+    <color name="orangeLight">#FF9800</color>
+    <color name="hijau">#3BC474</color>
+
+    <color name="font_orange">#d88f07</color>
+
+    <color name="abu_gelap">#8b8b83</color>
+    <color name="abu_terang">#cdcdc1</color>
+    <color name="abu_bg">#cccccc</color>
+
+    <color name="list_divider">#d9d9d9</color>
+    <color name="list_row_start_color">#ffffff</color>
+    <color name="list_row_end_color">#ffffff</color>
+    <color name="list_row_hover_start_color">#ebeef0</color>
+    <color name="list_row_hover_end_color">#ebeef0</color>
+
+    <color name="genre">#666666</color>
+    <color name="year">#888888</color>
+    
+    <color name="BattleshipGray">#848482</color>
+    <color name="grayVendor">#b0b0b0</color>
+
+    <color name="bg">#c2c7cc</color>
+    <color name="bg_item">#fcfcfc</color>
+    <color name="warna_utama"> #F5ECDD</color>
+    <color name="warna_putih"> #FFF</color>
+    <color name="warna_button_register"> #F0F0F0</color>
+    <color name="light_gray">#c2c7cc</color>
+    <color name="dark_gray">#3d454c</color>
+    <color name="dark_gray_pressed">#373e44</color>
+    <color name="darker_gray">#1f2226</color>
+
+    <color name="text_abu">#F8F8FF</color>
+
+
+    <!-- color slide om -->
+
+    <!-- Screens background color-->
+    <color name="bg_screen1">#f64c73</color>
+    <color name="bg_screen2">#1D7542</color>
+    <color name="bg_screen3">#3395ff</color>
+    <color name="bg_screen4">#c873f4</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#d1395c</color>
+    <color name="dot_dark_screen2">#30B065</color>
+    <color name="dot_dark_screen3">#2278d4</color>
+    <color name="dot_dark_screen4">#a854d4</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#8cf9eb</color>
+    <color name="dot_light_screen2">#8cf9eb</color>
+    <color name="dot_light_screen3">#93c6fd</color>
+    <color name="dot_light_screen4">#e4b5fc</color>
+    <color name="colorPrimaryenom">#90FF9D00</color>
+
+
+</resources>

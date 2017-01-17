@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">K-24</string>
+    <string name="APPNAME">K-24</string>
+
+    <!-- string slide om -->
+    <string name="title_activity_welcome">Home Screen</string>
+
+
+</resources>
+
